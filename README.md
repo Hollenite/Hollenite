@@ -52,7 +52,4 @@ Computer Vision · LLM APIs · OpenCV · Streamlit
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hollenite&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
 
